@@ -1,0 +1,17 @@
+{
+  "M1": {
+    "identity": "T8001",
+    "password": "test123",
+    "protocols": ["v1.6"],
+    "endpoint": "ws://52.66.117.137:3000",
+    "chargePointModel": "L2"
+  },
+  "M2": {
+    "identity": "T8002",
+    "password": "test123",
+    "protocols": ["v1.6"],
+    "endpoint": "ws://52.66.117.137:3000",
+    "chargePointModel": "L3"
+  }
+}
+  
