@@ -68,7 +68,7 @@ cardReader.on('rfidError', (error) => {
 });
 
 display.pageChange('L', 0); // L2
-display.pageChange('R', 0); // FC
+display.pageChange('R', 1); // FC
 
 let i = 0;
 let j = 0;
